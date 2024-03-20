@@ -5,5 +5,6 @@ public class test {
         String hello = "Hello World";
 
         System.out.println(a * b);
+        System.out.println("Hello World");
     }
 }
